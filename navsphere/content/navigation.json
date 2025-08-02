@@ -128,6 +128,14 @@
           "description": "Realnode机场",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754131313971",
+          "title": "飞天猪",
+          "href": "https://ftzaffcom01.fliggyaff.xyz/#/register?code=YKrIkFNJ",
+          "description": "飞天猪",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
