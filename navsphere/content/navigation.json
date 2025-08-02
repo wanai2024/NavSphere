@@ -120,6 +120,14 @@
           "description": "TNTCloud机场",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754131288124",
+          "title": "Realnode机场",
+          "href": "https://uxxrc62540泳.清风明月.com/index.php#/register?code=V7ipHxcf",
+          "description": "Realnode机场",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
