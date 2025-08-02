@@ -832,6 +832,14 @@
           "description": "青云梯机场",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754130646510_8oa7gc009",
+          "title": "老头VPN",
+          "href": "https://chattous.net/#/register?code=5Jjbxkw4",
+          "description": "老头VPN",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
