@@ -816,7 +816,16 @@
       "icon": "Zap",
       "description": "最佳网络加速器，Clash机场订阅节点服务商推荐。",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1754130525243_1rpjwm3ua",
+          "title": "Lray加速器",
+          "href": "https://lray.io/#/login?code=rUJ7v8mJ",
+          "description": "Lray加速器，稳定安全机场服务商",
+          "icon": "https://lray.io/logo.svg",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
