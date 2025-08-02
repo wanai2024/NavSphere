@@ -112,6 +112,14 @@
           "description": "老头VPN",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754131260652",
+          "title": "TNTCloud机场",
+          "href": "https://tntvipaffb01.cc/#/register?code=dfxiAJhA",
+          "description": "TNTCloud机场",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
