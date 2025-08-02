@@ -824,6 +824,14 @@
           "description": "Lray加速器，稳定安全机场服务商",
           "icon": "https://lray.io/logo.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1754130625195_j7vlop2g9",
+          "title": "青云梯机场",
+          "href": "https://ivt02.qytaff.cc/register?aff=stTMWryG",
+          "description": "青云梯机场",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
